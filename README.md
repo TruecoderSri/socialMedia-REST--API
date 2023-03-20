@@ -35,7 +35,7 @@ npm run test
 
 👤 **Srijan**
 
-* Twitter: [@Ssri\_04](https://twitter.com/Ssri\_04)
+* Twitter: [@SSri_04](https://twitter.com/Ssri\_04)
 * Github: [@TruecoderSri](https://github.com/TruecoderSri)
 * LinkedIn: [@Srijan.](https://linkedin.com/in/Srijan.)
 
