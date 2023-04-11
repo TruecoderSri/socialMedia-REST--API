@@ -1,8 +1,6 @@
-<h1 align="center">Welcome to socialMedia_API 👋</h1>
+<h1 align="center">Welcome to socialMedia-CRUD_API 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/social-media" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/social-media.svg">
-  </a>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
@@ -11,7 +9,7 @@
   </a>
 </p>
 
-> A socialMedia REST-API with 2 routes,Users and Blogs with CRUD functionality
+> This is a backend project made for handling the social-media APIs for 2 schemas namely Users and Blogs.A single user can have multiple blogs but each blog will be associated with only a single user.In the user routes we have Login and a SignIn path.The blog route is made with the CRUD functionality to fetch,create ,update,delete the blogs respectively. 
 
 ## Install
 
@@ -35,7 +33,7 @@ npm run test
 
 👤 **Srijan**
 
-* Twitter: [@SSri_04](https://twitter.com/Ssri\_04)
+* Twitter: [@Ssri\_04](https://twitter.com/Ssri\_04)
 * Github: [@TruecoderSri](https://github.com/TruecoderSri)
 * LinkedIn: [@Srijan.](https://linkedin.com/in/Srijan.)
 
