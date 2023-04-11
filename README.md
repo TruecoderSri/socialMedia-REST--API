@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to social-media 👋</h1>
+<h1 align="center">Welcome to socialMedia_API 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/social-media" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/social-media.svg">
@@ -44,4 +44,3 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
