@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> This is a backend project made for handling the social-media APIs for 2 schemas namely Users and Blogs.A single user can have multiple blogs but each blog will be associated with only a single user.In the user routes we have Login and a SignIn path.The blog route is made with the CRUD functionality to fetch,create ,update,delete the blogs respectively. 
+> This is a backend project made for handling the social-media APIs for 2 schemas namely Users and Blogs.A single user can have multiple blogs but each blog will be associated with only a single user.In the User route we have Login and a signin path.The Blog route is made with the CRUD functionality to fetch,create ,update,delete the blogs respectively. 
 
 ## Install
 
